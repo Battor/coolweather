@@ -78,4 +78,7 @@ public class Utility {
         }
         return false;
     }
+    /**
+     * 将返回的Json数据解析成Weather实体类
+     */
 }
